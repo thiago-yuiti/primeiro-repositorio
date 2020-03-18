@@ -1,3 +1,20 @@
 Esse é meu primeiro projeto no GitHub
 
 Editei para fazer um git pull
+
+Agora editei aqui ,eu nao li o q ela escreveu.
+
+git clone
+
+editar pra fazer um git pull
+
+apertar ''cd'' dps tab tab para mostrar o repositorio q está
+
+git pull para atualizar oq tem.
+
+git add= adiciona em um sala de espera
+git add . = envia tudo
+git commit -m "oque vc alterou"= o arquivo q ta na sala de espera para enviar
+git status= para checar a situação atual
+git push= envia tudo
+a
